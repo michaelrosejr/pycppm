@@ -1,0 +1,6 @@
+grant_type: password
+cppmip: clearpass.test.lab
+username: apiadmin
+password: Aruba123
+client_id: APIAccess
+client_secret: 123456789012345678901234567890ChangeMe
